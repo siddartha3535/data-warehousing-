@@ -1,0 +1,3 @@
+library(plotrix)
+data=c(19,20,50,11)
+pie3D(data,radius=0.99,height=0.75)
